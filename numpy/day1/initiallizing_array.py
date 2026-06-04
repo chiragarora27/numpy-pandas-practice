@@ -21,7 +21,7 @@ new = np.full(new2.shape, 6)
 
 # array of random decimals
 new = np.random.rand(2, 6)
-# print(new)
+print(new)
 
 new = np.random.random_sample(new2.shape)
 # print(new)
